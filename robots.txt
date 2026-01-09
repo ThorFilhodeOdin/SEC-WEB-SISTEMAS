@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://secsistemas.com.br/sitemap.xml
+
+# Crawl-delay (opcional)
+Crawl-delay: 1
